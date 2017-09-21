@@ -1,6 +1,6 @@
 {
-  "name": "chai-eta-js",
-  "version": "0.0.1",
+  "name": "chai-eta",
+  "version": "0.0.2",
   "description": "Chai wrapper for ETA",
   "main": "chai-eta.js",
   "scripts": {
