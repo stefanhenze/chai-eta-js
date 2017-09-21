@@ -2,7 +2,7 @@
   "name": "chai-eta-js",
   "version": "0.0.1",
   "description": "Chai wrapper for ETA",
-  "main": "sample.js",
+  "main": "chai-eta.js",
   "scripts": {
     "test": "mocha '*.spec.js'"
   },
